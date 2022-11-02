@@ -1,0 +1,14 @@
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+--2022-10-31 15:08:53--  http://efrosgans.eecs.berkeley.edu/cyclegan/pretrained_models/horse2zebra.pth
+Resolving efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)... 128.32.244.190
+Connecting to efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)|128.32.244.190|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45575747 (43M)
+Saving to: ‘./checkpoints/horse2zebra_pretrained/latest_net_G.pth’
+
+./checkpoints/horse   8%[>                   ]   3.82M  1.80MB/s               /checkpoints/horse2  10%[=>                  ]   4.62M  1.98MB/s               checkpoints/horse2z  12%[=>                  ]   5.47M  2.16MB/s               heckpoints/horse2ze  14%[=>                  ]   6.41M  2.34MB/s               eckpoints/horse2zeb  17%[==>                 ]   7.62M  2.58MB/s               ckpoints/horse2zebr  20%[===>                ]   8.89M  2.82MB/s    eta 12s    kpoints/horse2zebra  23%[===>                ]  10.30M  3.22MB/s    eta 12s    points/horse2zebra_  27%[====>               ]  12.11M  3.71MB/s    eta 12s    oints/horse2zebra_p  32%[=====>              ]  14.04M  4.20MB/s    eta 12s    ints/horse2zebra_pr  37%[======>             ]  16.15M  4.90MB/s    eta 12s    nts/horse2zebra_pre  43%[=======>            ]  18.91M  5.60MB/s    eta 5s     ts/horse2zebra_pret  50%[=========>          ]  21.74M  6.31MB/s    eta 5s     s/horse2zebra_pretr  57%[==========>         ]  24.91M  7.34MB/s    eta 5s     /horse2zebra_pretra  66%[============>       ]  28.82M  8.36MB/s    eta 5s     horse2zebra_pretrai  75%[==============>     ]  32.99M  9.40MB/s    eta 5s     orse2zebra_pretrain  86%[================>   ]  37.71M  10.9MB/s    eta 1s     rse2zebra_pretraine  98%[==================> ]  42.99M  12.3MB/s    eta 1s     ./checkpoints/horse 100%[===================>]  43.46M  12.4MB/s    in 5.4s    
+
+2022-10-31 15:08:58 (8.05 MB/s) - ‘./checkpoints/horse2zebra_pretrained/latest_net_G.pth’ saved [45575747/45575747]
+
