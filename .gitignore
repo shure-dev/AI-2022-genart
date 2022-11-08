@@ -44,3 +44,5 @@ test/data/legacy_serialized.pt
 
 #Ignore Wandb
 wandb/
+
+pytorch-CycleGAN-and-pix2pix/

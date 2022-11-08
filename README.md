@@ -2,12 +2,12 @@
 > Nov.2022 Artificial Intelligence, Home assignment
 
 ## Members
-- Max Grönlund, 
-- Joona Hytönen, 
-- Ville Juuti, 
-- Juho Kemppainen, 
-- Yusuke Mikami, 
-- Simo Turunen 
+- Max Grönlund
+- Joona Hytönen 
+- Ville Juuti
+- Juho Kemppainen
+- Yusuke Mikami
+- Simo Turunen
 
 ## Abstract
 
