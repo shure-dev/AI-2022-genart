@@ -1,6 +1,13 @@
 # GAN for generating art
 > Nov.2022 Artificial Intelligence, Home assignment
 
+
+![Test Image 1](/results/results/real.png)
+![Test Image 2](/results/results/2monet.png)
+![Test Image 3](/results/results/3ukiyoe.png)
+![Test Image 4](/results/results/4ceznne.png)
+![Test Image 5](/results/results/5vangogh.png)
+
 ## Members
 - Max Grönlund
 - Joona Hytönen 
@@ -8,6 +15,10 @@
 - Juho Kemppainen
 - Yusuke Mikami
 - Simo Turunen
+
+## How to run
+1. Go file "AI-2022-genart/Joensuu-cycleGAN.ipynb"
+2. Run notebook "AI-2022-genart/Joensuu-cycleGAN.ipynb"
 
 ## Abstract
 
